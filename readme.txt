@@ -3,7 +3,7 @@ Contributors: Bishoy.A
 Tags: social, shares, count, shortcodes, Facebook, Twitter, Google Plus, Pinterest, Stumble, Delicious, LinkedIn
 Donate link: http://bishoy.me/donate
 Requires at least: 2.5.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
