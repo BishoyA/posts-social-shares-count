@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
-Plugin that gives you shortcodes and PHP functions to count posts/pages shares on the following social networks: Facebook, Twitter, Google Plus, Pinterest, Stumble, Delicious, LinkedIn.
+Plugin that gives you shortcodes and PHP functions to count posts/pages shares on 7 social networks!
 
 == Description ==
 = About =
