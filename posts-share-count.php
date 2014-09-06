@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Posts Social Shares Count
- * Plugin URI: http://bishoy.me/wp-plugins/posts-share-count/
+ * Plugin URI: http://bishoy.me/wp-plugins/posts-social-shares-count/
  * Description: This plugin allows you to count posts and pages shares count for 7 different social networks using shortcodes and functions! If you like this free plugin, please <a href="http://bishoy.me/donate" target="_blank">consider a donation</a>.
  * Version: 1.0
  * Author: Bishoy A.
