@@ -15,7 +15,7 @@ Plugin that gives you shortcodes and PHP functions to count posts/pages shares o
 You can use this plugin to get the number of shares for a given post by ID.
 
 = How to use =
-To count for example how many times the post has been shared on Facebook use the function pssc_facebook() in the loop or pssc_facebook( $post_id ) anywhere. This function will return the count integer for example 5 or 0.
+To count for example how many times the post or page has been shared on Facebook use the function pssc_facebook() in the loop or pssc_facebook( $post_id ) anywhere. This function will return the count integer for example 5 or 0.
 
 Or you can use the shortcode [pssc_facebook] in the post you want to count shares for or [pssc_facebook post_id=""] for a specific post by ID.
 
